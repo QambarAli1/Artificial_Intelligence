@@ -3,7 +3,7 @@
 
 num1 = int(input("Enter number to get Square root: "))
 if num1 > 0:
-    square = num*(1/2)
+    square = num1*(1/2)
     print(f'square root of {num1} is {square}')
 if num1 <= 0:
     print("Please Enter Positive number only !")
